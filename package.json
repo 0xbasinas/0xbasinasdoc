@@ -1,0 +1,22 @@
+{
+  "name": "0xbasinasdoc",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.6.0",
+    "@astrojs/starlight": "^0.36.2",
+    "@astrojs/starlight-tailwind": "^4.0.2",
+    "@fontsource/jetbrains-mono": "^5.2.8",
+    "@tailwindcss/vite": "^4.1.16",
+    "astro": "^5.6.1",
+    "sharp": "^0.34.2",
+    "tailwindcss": "^4.1.16"
+  }
+}

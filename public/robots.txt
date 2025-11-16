@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://docs.0xbasinas.dev/sitemap-index.xml
